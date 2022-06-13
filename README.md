@@ -1,2 +1,2 @@
 # 1915834
-Lab 1 in Microprocessor
+Lab 1 in Microprocessors-Microcontrollers
